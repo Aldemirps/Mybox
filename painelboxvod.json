@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "jucell38",
-        "password": "malu38",
+        "username": "Willians",
+        "password": "Will04",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,8 +17,8 @@
         ]
     },
     "server_info": {
-        "url": "server10.maxcdn.link",
-        "port": "2052",
+        "url": "pfsv.io",
+        "port": "80",
         "https_port": "443",
         "server_protocol": "http",
         "rtmp_port": "8080",
