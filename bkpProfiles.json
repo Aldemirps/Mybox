@@ -3,11 +3,11 @@
   {
     "Name": "servidor 1",
     "Type": "M3uUrl",
-    "Url": "http://p2.hostingonenemosore1.com:2082/get.php?username=Tourbox2-fGPOx2d71&password=eTUUeEY4F2&type=m3u_plus&output=m3u8"
+    "Url": "http://cdnrez.xyz:80/get.php?username=732856993&password=965879327&type=m3u_plus"
   },
   {
     "Name": "servidor 2",
     "Type": "M3uUrl",
-    "Url": "https://raw.githubusercontent.com/Aldemirps/tva/refs/heads/main/livepro.m3u "
+    "Url": "https://raw.githubusercontent.com/Aldemirps/Maxptv/refs/heads/main/maximo.m3u"
   }
 ]
