@@ -1,13 +1,7 @@
-[
-
-  {
-    "Name": "servidor 1",
-    "Type": "M3uUrl",
-    "Url": "http://cdnrez.xyz:80/get.php?username=732856993&password=965879327&type=m3u_plus"
-  },
-  {
-    "Name": "servidor 2",
-    "Type": "M3uUrl",
-    "Url": "https://raw.githubusercontent.com/Aldemirps/Maxptv/refs/heads/main/maximo.m3u"
-  }
-]
+{
+  "Name": "servidor 1",
+  "Type": "XstreamCodesApi",
+  "Url": "http://m3dx.in:80",
+  "User": "017947980",
+  "Pass": "042532109"
+}
