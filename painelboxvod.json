@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "gleyktest1",
-        "password": "8555474144",
+        "username": "726884645",
+        "password": "884989125",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,7 +17,7 @@
         ]
     },
     "server_info": {
-        "url": "vipy.cloud",
+        "url": "cdn.jccob.click",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
