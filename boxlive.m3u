@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="" tvg-logo="" tvg-name="",JOGOS DE HOJE
-http://viaxens.uk:80/live/p9o04693uk/59vlphn2fx/339310.m3u8
 #EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO ACRE RIO BRANCO FHD
 http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/6860.m3u8
 #EXTINF:-1 group-title="" tvg-logo="" tvg-name="",GLOBO ACRE RIO BRANCO HD
@@ -1507,4 +1505,5 @@ http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/4894.m3u8
 http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3828.m3u8
 #EXTINF:-1 group-title="" tvg-logo="" tvg-name="",REDETV SD
 http://fonte.lista.luxe:80/live/Thiagosstv/7ECkbwL1GT/3827.m3u8
+
 
