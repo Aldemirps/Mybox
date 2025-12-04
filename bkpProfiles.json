@@ -1,7 +1,1 @@
-{
-  "Name": "servidor 1",
-  "Type": "XstreamCodesApi",
-  "Url": "http://m3dx.in:80",
-  "User": "017947980",
-  "Pass": "042532109"
-}
+["12345", "admin123", "user456", "guest789", "teste2024"]
